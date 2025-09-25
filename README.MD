@@ -1,6 +1,6 @@
 # Edopro Custom Cards
 
-This repository contains extra custom Yu-Gi-Oh! cards for use in [Edopro](https://projectignis.github.io/edopro/).
+This repository contains extra custom Yu-Gi-Oh! cards for use in [Edopro](https://github.com/ProjectIgnis/CardScripts.git).
 
 ## Structure
 
