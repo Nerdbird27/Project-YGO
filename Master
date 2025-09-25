@@ -1,13 +1,3 @@
-Name: Deep Sea Dragon
-ID: 100000421
-Type: Synchro/Effect Monster
-Attribute: WATER
-Level: 8
-Race: Dragon/Aqua/Sea Serpent
-ATK: 2200
-DEF: 2900
-Description: ITuner + 1+ Non-Tuner WATER Monsters (This card is always treated as an Aqua and Sea Serpent Type Monster) When this card is Synchro summoned, you can target 1 WATER Monster in your graveyard, banish it, and if you do, this card gains DEF equal to the level of the monster x 200. When a WATER Monster you control battles, You can choose whether it uses ATK or DEF for Damage Calculation. If you control a Field Spell named 'Umi', this card gains the following effect: WATER Monsters you control can attack in Face-Up Defense Position.
-
 -- Deep Sea Dragon / Synchro / WATER / Aqua / Dragon / Effect
 local s,id=GetID()
 function s.initial_effect(c)
